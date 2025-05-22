@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skhetcho
 - 👀 engineer and hacker | #bitcoin 2014
 - 🌱 prev-founder @TeamOpenAuto ($800K ARR) | WhaleDM (acq.)
-- 📫 Reach out to me on X @SourenKhetcho
+- 📫 Reach out to me on X @[0xpaperhead](https://x.com/0xpaperhead)
 
 <!---
 skhetcho/skhetcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
